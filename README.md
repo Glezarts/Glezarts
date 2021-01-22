@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Eva (Glezart)</h1>
-<h3 align="left">A passionate frontend developer from Spain</h3>
+<h3 align="left">A passionate frontend developer and graphic designer from Spain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=glezart&label=Profile%20views&color=0e75b6&style=flat" alt="glezart" /> </p>
 

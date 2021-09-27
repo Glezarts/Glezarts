@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=glezart&label=Profile%20views&color=0e75b6&style=flat" alt="glezart" /> </p>
 
-- 🌱 I’m currently learning **JavaScript, Python.**
+- 🌱 I’m currently learning **React**
 
 - 👩‍💻 you can visit my page web at [www.glezart.com](www.glezart.com)
 
